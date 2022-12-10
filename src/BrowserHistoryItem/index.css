@@ -1,0 +1,44 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.time-logo-url-con {
+  display: flex;
+  align-items: center;
+}
+
+.time {
+  font-size: 14px;
+  color: #475569;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.title {
+  font-size: 17px;
+  color: #475569;
+}
+
+.domain-url {
+  font-size: 12px;
+  color: #64748b;
+  margin-left: 15px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.delete-icon {
+  margin-right: 10px;
+}

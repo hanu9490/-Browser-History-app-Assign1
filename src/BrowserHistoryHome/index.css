@@ -1,0 +1,63 @@
+.bg-con {
+  background-color: #3367d6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+}
+
+.history-logo {
+  height: 20px;
+  width: 50px;
+  margin-left: 10%;
+}
+
+.input-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+}
+
+.search-icon-con {
+  background-color: #ffffff;
+  border: 1px solid #6697ff;
+  height: 35px;
+  width: 50px;
+  display: none;
+}
+
+.search-icon {
+  background-color: #2850a7;
+  border: 1px solid #6697ff;
+  height: 35px;
+  width: 35px;
+}
+
+.input {
+  width: 40%;
+  border: none;
+  outline: none;
+  height: 35px;
+  padding: 5px;
+  background-color: #2850a7;
+  border: 1px solid #6697ff;
+}
+
+.down-bg-con {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.browser-list {
+  width: 80%;
+  box-shadow: 2px 2px 2px 2px rgb(116, 117, 111);
+  border-radius: 10px;
+}
+
+.no-list {
+  font-size: 25px;
+  margin-top: 15%;
+}
